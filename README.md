@@ -1,2 +1,2 @@
-# Clock
-This is a live clock which shows the actual time (programmed in java)
+# p5.play-boilerplate
+Boiler plate for p5.play
